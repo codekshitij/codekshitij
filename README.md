@@ -1,76 +1,63 @@
 <!-- =========================================================
-   PERSONAL BRAND HEADER (Choose 1 of 3 variants)
+   PERSONAL BRAND HEADER
 ========================================================= -->
 
-<!-- Variant A: Gradient Capsule -->
+<!-- Your Custom Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Kshitij%20Mishra&fontAlign=50&fontAlignY=35&color=0:6a11cb,100:2575fc&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="header"/>
+  <img src="/assests/banner.png" alt="Kshitij Mishra Banner" width="100%" />
 </div>
-
-<!-- Variant B: Minimal Typographic (uncomment to use)
-<h1 align="center">Hi, I'm <strong>Kshitij Mishra</strong> 👋</h1>
-<h3 align="center">Building things at the intersection of software engineering, systems design & curiosity.</h3>
--->
-
-<!-- Variant C: Banner Image (create your own and host in repo assets)
-<div align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
-</div>
--->
 
 <!-- Animated tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;Crafting+Scalable+Web+Experiences;Open+Source+Learner+%26+Builder;Always+Iterating+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&random=false&width=580&lines=Full+Stack+Developer+%26+AI+Researcher;Building+Scalable+Web+%26+Mobile+Solutions;Fintech+%26+Data+Engineering+Expert;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Quick identity badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-DB4437?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kshitij27"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kshitijmishra7@outlook.com"><img src="https://img.shields.io/badge/Email-DB4437?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://kmishra.me"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=codekshitij&style=flat&color=6a11cb" alt="Profile views" />
 </p>
 
 ---
 
 ## 🧭 Elevator Pitch
-> Concise, crisp positioning blurb (2–3 lines).
-I’m a (YOUR ROLE) focused on (VALUE / DOMAIN). I enjoy turning ambiguous problems into reliable, elegant systems. Currently exploring (TOPIC / STACK) and refining my skills in (AREA). Open to collaborations in (TOPIC).
+> CS/DS Student at Georgia State University (3.9 GPA) with 3+ years of professional experience.
+
+I'm a Full-Stack Developer & AI Researcher focused on building scalable solutions in fintech and data engineering. I enjoy turning complex problems into elegant, high-performance systems that serve 100K+ users. Currently exploring hybrid neural-symbolic AI architectures and refining my skills in system design. Open to collaborations in fintech, AI research, and full-stack development.
 
 ---
 
-## 🛠️ Tech & Tools (Signal over Noise)
+## 🛠️ Tech & Tools
 
-<!-- Option 1: Skill Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,nodejs,express,postgres,mongodb,docker,aws,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nodejs,postgres,mongodb,docker,aws,gcp,firebase,tensorflow,fastapi,spring" />
 </p>
 
-<!-- Option 2: Categorized (uncomment if you prefer text)
-**Languages:** Python · JavaScript · TypeScript · Java · C++  
-**Frontend:** React · Next.js · Tailwind · (others)  
-**Backend:** Node.js · Express · (NestJS?) · REST / (GraphQL?)  
-**Data:** PostgreSQL · MongoDB · Redis  
-**Cloud/Infra:** AWS (EC2, S3, Lambda?) · Docker · CI/CD  
-**Other:** Testing (Jest / PyTest), Design Patterns, System Design
--->
+**Languages:** Python · JavaScript · TypeScript · Java  
+**Frontend:** React · React Native · Vite  
+**Backend:** Node.js · FastAPI · Spring Boot · Express  
+**Mobile:** React Native · Jest Testing  
+**Data:** PostgreSQL · MongoDB · Firebase · ETL Pipelines  
+**Cloud/AI:** GCP · AWS · TensorFlow · PyTorch  
+**Tools:** Docker · CI/CD · Stripe API · QuickBooks API
 
 ---
 
 ## 🔥 Highlight Reel
-<!-- Replace with your best-impact repositories -->
 
-| Project | What It Is | Tech | Demo |
-|---------|------------|------|------|
-| [Project One](https://github.com/codekshitij/REPO1) | 1‑line impact statement (e.g. "Optimized X…") | Node.js · React · Postgres | [Live](https://example.com) |
-| [Project Two](https://github.com/codekshitij/REPO2) | Why it matters / problem solved | Python · FastAPI | — |
-| [Project Three](https://github.com/codekshitij/REPO3) | Distinctive feature or metric | TypeScript · Next.js | [Docs](https://example.com) |
+| Project | What It Is | Tech | Impact |
+|---------|------------|------|--------|
+| [F1 Fantasy Platform](https://github.com/codekshitij/f1-fantasy) | Full-stack fantasy Formula 1 platform with real-time scoring | FastAPI · React · PostgreSQL · Stripe | 500+ active users |
+| [Hybrid AI Research](https://github.com/codekshitij/arc-agi-research) | Novel neural-symbolic architecture for abstract reasoning | Python · TensorFlow · PyTorch | 25-35% accuracy improvement target |
+| [NASA Data Pipeline](https://github.com/codekshitij/nasa-solar-flare) | ETL pipeline processing 10GB+ daily satellite data | Python · PostgreSQL · React | 99.5% uptime, 50+ researchers |
 
-> Tip: Quantify: “Cut build time 40%”, “Serves 10K+ req/day”, “<200ms latency”.
+> **Professional Impact:** 42% storage reduction, 85% faster queries, $350K+ daily transactions processed, 99.8% payment success rate
 
 ---
 
-## 📊 Dev Metrics (Pick selectively to avoid clutter)
+## 📊 Dev Metrics
 
 <div align="center">
   
@@ -78,107 +65,90 @@ I’m a (YOUR ROLE) focused on (VALUE / DOMAIN). I enjoy turning ambiguous probl
 |-------|--------|-----------|
 | <img src="https://github-readme-stats.vercel.app/api?username=codekshitij&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> | <img src="https://streak-stats.demolab.com?user=codekshitij&theme=tokyonight&hide_border=true" height="150"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codekshitij&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/> |
 
-<!-- Optional Activity Graph -->
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codekshitij&theme=tokyo-night&hide_border=true&area=true" height="250" />
 
 </div>
 
-<!-- If you use WakaTime -->
-<!--
-### ⏱️ Weekly Coding Time
-<a href="https://wakatime.com/@yourid"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourid&layout=compact&theme=tokyonight&hide_border=true"/></a>
--->
-
 ---
 
 ## 🧪 Recent Experiments
-- 🚀 Built (FEATURE) to explore (TECH / CONCEPT)
-- 🧵 Refactoring (PROJECT) to (GOAL: performance / modularity / DX)
-- 🧠 Learning (TOPIC) by (METHOD: implementing X / reading Y)
-- ✅ Most recent win: (ACHIEVEMENT)
+- 🚀 Built hybrid neural-symbolic AI system for ARC-AGI-2 benchmark
+- 🧵 Migrated production database from Firebase to normalized schema (42% storage reduction)
+- 🧠 Learning test-time training techniques by implementing transformer-based program synthesis
+- ✅ Most recent win: Delivered 99.8% payment success rate for $350K+ daily transactions
 
 ---
 
 ## 🗺️ Roadmap / 2025 Focus
 | Area | Why | Current Action |
 |------|-----|----------------|
-| System Design | Scalability mindset | Designing mock architectures |
-| Cloud Native | Resilience & deployment speed | Deploying containerized microservices |
-| Performance | User retention | Profiling & caching layers |
+| AI Research | AGI advancement | Developing hybrid neural-symbolic architectures |
+| System Design | Scalability for fintech | Building microservices with 99.9% uptime |
+| Performance | User experience | Optimizing React builds (60% faster loads) |
+
+---
+
+## 💼 Professional Experience
+- **Software Engineering Intern** @ Terrace (May 2025 - Aug 2025)
+  - Migrated production database, built Stripe payment integration, achieved 60% code coverage
+- **Data Engineer** @ GSU Physics Dept (Aug 2023 - Aug 2024)  
+  - Built NASA satellite data ETL pipeline processing 10GB+ daily with 99.5% uptime
+- **Software Engineering Intern** @ Niyo Solutions (May 2023 - Aug 2023)
+  - Developed secure RESTful APIs for $45M+ daily fintech transactions
 
 ---
 
 ## 💡 Knowledge Nuggets
 <details>
-<summary><b>🔍 Design Pattern Snapshot</b></summary>
+<summary><b>🔍 Architecture Patterns Used</b></summary>
 
-| Pattern | Where You Used It |
+| Pattern | Where I Applied It |
 |--------|-------------------|
-| Strategy | Swappable (module/service) in (PROJECT) |
-| Factory | Instance creation in (FEATURE) |
-| Caching Layer | Reduced API calls by X% |
+| Microservices | Payment processing system at Terrace |
+| ETL Pipeline | NASA satellite data processing |
+| Plugin Architecture | QuickBooks API integration |
+| Event-Driven | Stripe webhook handling |
 
 </details>
 
 <details>
-<summary><b>🧩 Problem-Solving Style</b></summary>
-Emphasis on:
-1. Clarifying constraints  
-2. Measuring baselines  
-3. Iterating with instrumentation  
-4. Writing for humans first  
+<summary><b>🧩 Problem-Solving Approach</b></summary>
+Focus on:
+1. **Performance First** - 85% query speed improvements
+2. **Test-Driven Development** - 0-60% code coverage implementations  
+3. **User Impact** - Serving 100K+ users with 99.8% reliability
+4. **Scalable Architecture** - Building for growth from day one
 </details>
 
 ---
 
 ## 🤝 Collaboration
-I enjoy pairing on:
-- Refactoring legacy into clean architecture
-- Performance tuning & observability
-- API design (REST / possible GraphQL)
-- Open-source contributions (looking for maintainable small scopes)
+I enjoy working on:
+- **Fintech Solutions** - Payment processing, financial data APIs
+- **AI/ML Research** - Neural networks, program synthesis, AGI
+- **Full-Stack Development** - React/React Native, backend optimization
+- **Data Engineering** - ETL pipelines, real-time processing
 
-Feel free to propose ideas via an issue or DM.
+Always open to discussing system architecture, AI research, or fintech innovations.
 
 ---
 
 ## 📫 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <!-- <a href="https://dev.to/yourhandle"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=dev.to&logoColor=white" /></a> -->
+  <a href="https://linkedin.com/in/kshitij27"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kshitijmishra7@outlook.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kmishra.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧬 Minimal Version (If Recruiter Skims)
-> Full‑stack developer (STACK) building performant, maintainable web products. Comfortable with (KEY AREAS). Currently focusing on (FOCUS). Always open to discussions around architecture & developer experience.
+## 🧬 TL;DR
+> Full-stack developer (React Native, Node.js, Python) building performant fintech and AI systems. Experienced with payment processing, data pipelines, and neural network research. Currently focusing on hybrid AI architectures and scalable system design. Always open to discussions around architecture, AI research, and developer experience.
 
 ---
-
-<!-- =========================
-  OPTIONAL BADGES / SECTIONS
-========================= -->
-<!-- Holopin Badges (if you have) -->
-<!-- <p align="center"><a href="https://holopin.io/@yourhandle"><img src="https://holopin.me/yourhandle" alt="holopin badges"/></a></p> -->
-
-<!-- Blog posts automation (GitHub Action can inject here)
-### 📝 Latest Articles
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
--->
-
-<!-- Contribution Snake (light/dark)
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codekshitij/codekshitij/output/github-contribution-grid-snake-dark.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/codekshitij/codekshitij/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
--->
 
 <!-- Footer -->
 <div align="center">
-  <sub>Built with intention • Refined with iteration • Last updated: <!-- DATE --></sub>
+  <sub>Built with intention • Refined with iteration • Currently researching AGI at GSU</sub>
 </div>
